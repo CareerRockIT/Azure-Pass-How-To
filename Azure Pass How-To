@@ -1,107 +1,55 @@
+# Creating a Microsoft Azure Pass Subscription
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How To - Microsoft Azure Pass</title>
-    <link href="/cssbundle/corecss?v=HrYjjzqN2oRwEDMk7U1qwQ4m9oNLxtOA9uqm5c71dnQ1" rel="stylesheet"/>
+## Creating an Azure Pass subscription is a two step process.
 
-    <script type = 'text/javascript' >
-        var appInsights=window.appInsights||function(config)
-        {
-            function r(config){ t[config] = function(){ var i = arguments; t.queue.push(function(){ t[config].apply(t, i)})} }
-            var t = { config:config},u=document,e=window,o='script',s=u.createElement(o),i,f;for(s.src=config.url||'//az416426.vo.msecnd.net/scripts/a/ai.0.js',u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=['Event','Exception','Metric','PageView','Trace','Ajax'];i.length;)r('track'+i.pop());return r('setAuthenticatedUserContext'),r('clearAuthenticatedUserContext'),config.disableExceptionTracking||(i='onerror',r('_'+i),f=e[i],e[i]=function(config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t['_' + i](config, r, u, e, o),s}),t
-        }({
-            instrumentationKey:'05a1b8f5-dd54-4e2c-a0de-c5eab0b4272c'
-        });
-        
-        window.appInsights=appInsights;
-        appInsights.trackPageView();
-    </script>
-</head>
-<body>
-    <header>
-        <div class="airscontainer">
-            <nav class="navbar navbar-default airsnav">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <span class="navbar-brand">Microsoft Azure</span>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-left">
-                    </ul>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="https://azure.microsoft.com/en-us/account/" target="_blank">MY ACCOUNT</a></li>
-                        <li>
-								<a href='/Account/SignIn'>SIGN IN</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </header>
+1.Redeem your Azure Pass Promo Code
+1.Activate your subscription
 
-    
+## Step 1: Redeeming a Microsoft Azure Pass Promo Code:
 
+Open a browser and navigate to: +++www.microsoftazurepass.com+++
 
+> [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
-<div class="airscontainer main-container">
-    <div class="row">
-        <h1 class="text-light">Creating a Microsoft Azure Pass Subscription</h1>
-        <h3 class="spacing-top">Creating an Azure Pass subscription is a two step process.</h3>
-        <ol>
-            <li>Redeem your Azure Pass Promo Code</li>
-            <li>Activate your subscription</li>
-        </ol>
-        <h3 class="spacing-top">Step 1: Redeeming a Microsoft Azure Pass Promo Code:</h3>
-        <p>Open a browser and navigate to: www.microsoftazurepass.com</p>
-        <p>It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.</p>
-        <p>Click the start button to get started.</p>
-        <img src="/images/howto/1.jpg" alt="step 1" title="step 1"/>
-        <p class="spacing-top">Enter your account login information and select “Sign In”.</p>
-        <img src="/images/howto/2.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">Click “Confirm” if the correct email address is listed.</p>
-        <img src="/images/howto/3.jpg" alt="step 3" title="step 3" />
-        <p class="spacing-top">Enter your promo code in the Promo code box and click “Claim Promo Code”.</p>
-        <img src="/images/howto/4.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">It may take up to 5 minutes to process the redemption.</p>
-        <img src="/images/howto/5.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">Click on “Activate” to start setting up your Azure subscription.</p>
-        <img src="/images/howto/6.jpg" alt="step 2" title="step 2" />
+Click the start button to get started.
+	
+	Image 1
+	
+Enter your account login information and select “Sign In”.
 
-        <h3 class="spacing-top">Step 2: Activate your subscription:</h3>
-        <p class="spacing-top">Enter your account information and click “Next”.</p>
-        <img src="/images/howto/7.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">Enter your phone number and click “Next”.</p>
-        <img src="/images/howto/8.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">It may take a few minutes to process the request.</p>
-        <img src="/images/howto/9.jpg" alt="step 2" title="step 2" />
-        <img src="/images/howto/10.jpg" alt="step 2" title="step 2" />
-        <img src="/images/howto/11.jpg" alt="step 2" title="step 2" />
-        <p class="spacing-top">Your subscription is ready, click “Get started” to use Azure services.</p>
-        <img src="/images/howto/12.jpg" alt="step 2" title="step 2" />
-    </div>
-</div>
+	Image 2
+	
+Click “Confirm” if the correct email address is listed.
 
-    <footer>
-        <div class="airscontainer row">
-            <div class="col-md-6 footer-left-column">
-                <span>&copy; 2018 Microsoft</span>
-            </div>
-            <div class="column-md-6 footer-right-column">
-                <span><a href="http://azure.microsoft.com/en-us/support/options/" target="_blank">Support | </a></span>
-                <span><a href="https://go.microsoft.com/fwlink/?LinkId=248681" target="_blank">Privacy & Cookies | </a></span>
-					<span><a href="https://azure.microsoft.com/en-us/support/legal/website-terms-of-use/" target="_blank">Terms of Use </a></span>
-			</div>
-        </div>
-    </footer>
-    <script src="/jsbundle/corejs?v=sLNJSIgFheFxOYWem2kI6IA_1gpm1gMd3SG0Oboxd7k1"></script>
+	Image 3
+	
+Enter your promo code in the Promo code box and click “Claim Promo Code”.
 
-</body>
-</html>
+	Image 4
+	
+It may take up to 5 minutes to process the redemption.
+
+	Image 5
+Click on “Activate” to start setting up your Azure subscription.
+
+	Image 6
+	
+## Step 2: Activate your subscription:
+
+Enter your account information and click “Next”.
+
+	Image 7
+	
+Enter your phone number and click “Next”.
+
+	Image 8
+	
+It may take a few minutes to process the request.
+
+	Image 9
+	Image 10
+	Image 11
+	
+Your subscription is ready, click “Get started” to use Azure services.
+	
+	Image 12
