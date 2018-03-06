@@ -1,5 +1,3 @@
-Replacement Token on Included Content: @lab.LabInstanceId
-
 # Creating a Microsoft Azure Pass Subscription
 
 ## Creating an Azure Pass subscription is a two step process.
@@ -25,7 +23,7 @@ Click “Confirm” if the correct email address is listed.
 
 	Image 3
 	
-Enter your promo code (+++@lab.CloudCredential(11).PromoCode+++) in the Promo code box and click “Claim Promo Code”.
+Enter your promo code (available from the **Resources** tab above) in the Promo code box and click “Claim Promo Code”.
 
 !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/4.jpg)
 	
