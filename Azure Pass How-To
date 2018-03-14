@@ -1,7 +1,7 @@
 [azure-pass]:
 ```
 $IE=new-object -com internetexplorer.application
-$IE.navigate2("https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-aci-dynamicsnav/azuredeploy.json")
+$IE.navigate2("www.microsoftazurepass.com")
 $IE.visible=$true
 ```
 # Creating a Microsoft Azure Pass Subscription
