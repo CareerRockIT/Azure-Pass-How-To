@@ -1,0 +1,9 @@
+This lab requires Admin level access (Contributor or Owner) to an Azure Subscription. If you require an Azure pass, please note that it must be attached to a Microsoft Account (formerly live ID) that has not redeemed a pass previously. 
+
+Please select the option which best applies to how you will perform this lab:
+
+1. I need to redeem an Azure Pass and:
+    1. [**HAVE** had one in the past or Do Not Have a Microsoft Account (Formerly Live ID)](#create-a-new-microsoft-account "Microsoft Account Creation")
+    1. [**HAVE NOT** had one in the past and already have a Microsoft Account](#creating-a-microsoft-azure-pass-subscription "Azure Pass Redemption")
+1. [I already have an active Azure Pass](#preparing-your-environment "Preparing Your Environment")
+1. [I am using my Personal Subscription that has Admin access](#preparing-your-environment "Preparing Your Environment")
