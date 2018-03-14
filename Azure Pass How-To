@@ -1,3 +1,9 @@
+[azure-pass]:
+```
+$IE=new-object -com internetexplorer.application
+$IE.navigate2("https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-aci-dynamicsnav/azuredeploy.json")
+$IE.visible=$true
+```
 # Creating a Microsoft Azure Pass Subscription
 
 Creating an Azure Pass subscription is a two step process.
@@ -7,7 +13,7 @@ Creating an Azure Pass subscription is a two step process.
 
 ## Step 1: Redeeming a Microsoft Azure Pass Promo Code:
 
-- [] Open a browser and navigate to: +++www.microsoftazurepass.com+++
+- [] Open a browser and navigate to: @[www.microsoftazurepass.com][azure-pass]{powershell}
 
     > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
