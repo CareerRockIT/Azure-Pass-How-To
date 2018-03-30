@@ -57,7 +57,5 @@ Creating an Azure Pass subscription is a two step process.
 
 [azure-pass]:
 ```
-$IE=new-object -com internetexplorer.application
-$IE.navigate2("www.microsoftazurepass.com")
-$IE.visible=$true
+Start-Process 'http://www.outlook.com'
 ```
