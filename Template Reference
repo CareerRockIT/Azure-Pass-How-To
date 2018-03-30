@@ -1,6 +1,4 @@
 [template]:
 ```
-$IE=new-object -com internetexplorer.application
-$IE.navigate2("https://portal.azure.com/#create/Microsoft.Template/uri/{github/raw/link/here}")
-$IE.visible=$true
+Start-Process 'https://portal.azure.com/#create/Microsoft.Template/uri/{github/raw/link/here}'
 ```
