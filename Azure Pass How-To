@@ -57,5 +57,5 @@ Creating an Azure Pass subscription is a two step process.
 
 [azure-pass]:
 ```
-Start-Process 'www.microsoftazurepass.com"'
+Start-Process 'www.microsoftazurepass.com'
 ```
