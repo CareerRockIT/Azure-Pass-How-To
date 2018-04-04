@@ -2,4 +2,4 @@
 
 @[Deploy This Template][template]{powershell} to Azure to prepare a resource group in your Azure account with the the components needed to complete the lab.
 
-From here you will need to use the word manual document provided to you, you can skip the "Before the Hands on Lab" steps.
+Fill in the fields on the template deployment with the following:
