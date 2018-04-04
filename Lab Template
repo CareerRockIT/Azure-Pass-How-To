@@ -21,6 +21,9 @@
 
 !INSTRUCTIONS[End](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/End)
 
+- Task #: {Task Name}
+- Task #: {Task Name}
+
 [template]:
 ```
 Start-Process 'https://portal.azure.com/#create/Microsoft.Template/uri/{encoded/github/raw/link/here}'
