@@ -2,4 +2,4 @@
 
 @[Deploy This Template][template]{powershell} to Azure to prepare a resource group in your Azure account with the the components needed to complete the lab.
 
-Fill in the fields on the template deployment with the following:
+Fill in the empty fields on the template deployment with the following:
