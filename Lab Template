@@ -1,25 +1,25 @@
 # Welcome to {Cloud Workshop Name Here}
 
-!INSTRUCTIONS[Introduction](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/Introduction) 
+!INSTRUCTIONS[Introduction](https://raw.githubusercontent.com/LODSContent/Azure-Pass-How-To/master/Introduction) 
     
 ===
 
-!INSTRUCTIONS[Create MSA](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/Create%20MSA)
+!INSTRUCTIONS[Create MSA](https://raw.githubusercontent.com/LODSContent/Azure-Pass-How-To/master/Create%20MSA)
 
 ===
 
-!INSTRUCTIONS[Azure Pass How-To](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/Azure%20Pass%20How-To) 
+!INSTRUCTIONS[Azure Pass How-To](https://raw.githubusercontent.com/LODSContent/Azure-Pass-How-To/master/Azure%20Pass%20How-To) 
 
 ===
 
-!INSTRUCTIONS[Template Deployment](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/Template%20Deployment)
+!INSTRUCTIONS[Template Deployment](https://raw.githubusercontent.com/LODSContent/Azure-Pass-How-To/master/Template%20Deployment)
 
 |Template Field|Value|
 |--:|--|
 |****||
 |****||
 
-!INSTRUCTIONS[End](https://raw.githubusercontent.com/CareerRockIT/Azure-Pass-How-To/master/End)
+!INSTRUCTIONS[End](https://raw.githubusercontent.com/LODSContent/Azure-Pass-How-To/master/End)
 
 - Task #: {Task Name}
 - Task #: {Task Name}
