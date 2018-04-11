@@ -1,22 +1,22 @@
 # Create a New Microsoft Account
 
-- [] Navigate to @[www.outlook.com][outlook]{powershell}
+1. [] Navigate to @[www.outlook.com][outlook]{powershell}
 
-- [] Select the browser you prefer, check the **Always use this app** box, and click **OK**
+1. [] Select the browser you prefer, check the **Always use this app** box, and click **OK**
 
-- [] On the outlook home page, click **Create Account**
+1. [] On the outlook home page, click **Create Account**
 
-- [] On the create account page, input a new email name and password of your choosing, then click **Next.**
+1. [] On the create account page, input a new email name and password of your choosing, then click **Next.**
 
-- [] Add your First Name and the Last Name +++AzurePass+++, then click **Next.**
+1. [] Add your First Name and the Last Name +++AzurePass+++, then click **Next.**
 
-- [] Select your Country/Region and Birthdate, then click **Next.**
+1. [] Select your Country/Region and Birthdate, then click **Next.**
 
-- [] Put in a **Valid** cell phone number, and click **Send Code.**
+1. [] Put in a **Valid** cell phone number, and click **Send Code.**
 
-- [] You will receive a text message with a numerical code, input that in the **Enter the access code** field.
+1. [] You will receive a text message with a numerical code, input that in the **Enter the access code** field.
 
-- [] Progress through all the prompts until you end up in your new inbox.
+1. [] Progress through all the prompts until you end up in your new inbox.
 
 
 [outlook]:
