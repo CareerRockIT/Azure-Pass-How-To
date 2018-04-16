@@ -1,6 +1,8 @@
 This lab requires access to an Azure Subscription. If you will be using an Azure pass, please note that it must be attached to a Microsoft Account (formerly live ID) that has not redeemed a pass previously.
 
-Login to the Virtual Machine by pressing @lab.CtrlAltDelete and using the password +++Pa$$w0rd+++, then please select the option which best applies to how you will perform this lab:
+Login to the Virtual Machine by selecting **Ctrl+Alt+Delete** out of the commands menu (lightning bolt in top left of lab UI) and using the password +++Pa$$w0rd+++.
+
+Then, select the option which best applies to how you will perform this lab:
 
 1. [Click Here](#create-a-new-microsoft-account "Microsoft Account Creation") if any of the following apply to you:
     1. **Have** had an Azure pass in the past
