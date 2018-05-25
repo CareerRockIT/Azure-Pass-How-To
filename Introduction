@@ -4,11 +4,8 @@ Login to the Virtual Machine by selecting **Ctrl+Alt+Delete** out of the command
 
 Then, select the option which best applies to how you will perform this lab:
 
-1. [Click Here](#create-a-new-microsoft-account "Microsoft Account Creation") if any of the following apply to you:
-    1. **Have** had an Azure pass in the past
-    1. Do Not Have a Microsoft Account (Formerly Live ID)
-1. [Click Here](#creating-a-microsoft-azure-pass-subscription "Azure Pass Redemption") if any of the following apply to you:
-    1. **Have Not** had an Azure Pass in the past and already have a Microsoft Account
+1. [Click Here](#create-a-new-microsoft-account "Microsoft Account Creation") if you need to to redeem an Azure Pass and do not Have a Microsoft Account (Formerly Live ID)
+1. [Click Here](#creating-a-microsoft-azure-pass-subscription "Azure Pass Redemption") if you need to redeem an Azure Pass and already have a Microsoft Account
 1. [Click Here](#preparing-your-environment "Preparing Your Environment") if any of the following apply to you:
     1. Already have an active Azure Pass
     1. Are using your Personal Subscription that has Admin access
